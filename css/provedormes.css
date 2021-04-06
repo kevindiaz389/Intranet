@@ -1,0 +1,50 @@
+
+    .content {
+        margin-top: 80px;
+      }
+        header{
+        height: 70px;
+      }
+  
+  #fondopag{
+    background-color: #f8f8f8;
+  }
+  #hr {
+    height: 1px;
+    background-color: grey;
+  }
+  img{
+    width: 80%;
+  
+        display:block;
+        margin:auto;
+  
+  }
+  
+  #h5{
+    opacity: 0.8;
+    font-size: 16px;
+    font-style: italic;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+  
+  
+  }
+  #cod-19{
+    opacity: none;
+    font-size: 19px;
+    font-style: none;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    
+  
+  
+  }
+    #imgprov{
+      width: 600px;
+      height: 400px;
+  
+    }
+    #tituloprov{
+      color: #1E599E;
+    }

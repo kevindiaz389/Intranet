@@ -1,0 +1,112 @@
+#contenedor{
+    position: relative;
+}
+
+#etiqueta1{
+    width: 100px;
+    height: 100px;
+    background: url("../img/organizacion/c1.png") no-repeat;
+    position: absolute;
+    top: 48px;
+    left: 520px;
+    transition: transform .5s;
+}
+#etiqueta1:hover{
+    position: absolute;
+    top: 48px;
+    left: 520px;
+    transform: scale(1.3);
+}
+
+
+
+#etiqueta2{
+    width: 100px;
+    height: 100px;
+    background: url("../img/organizacion/c1.png") no-repeat;
+    position: absolute;
+    top: 139px;
+    left: 328px;
+    transition: transform .5s;
+}
+#etiqueta2:hover{
+    position: absolute;
+    top: 139px;
+    left: 328px;
+    transform: scale(1.3);
+}
+#etiqueta3{
+    width: 100px;
+    height: 100px;
+    background: url("../img/organizacion/c1.png") no-repeat;
+    position: absolute;
+    top: 347px;
+    left: 281px;
+    transition: transform .5s;
+}
+#etiqueta3:hover{
+    position: absolute;
+    top: 347px;
+    left: 281px;
+    transform: scale(1.3);
+}
+#etiqueta4{
+    width: 100px;
+    height: 100px;
+    background: url("../img/organizacion/c1.png") no-repeat;
+    position: absolute;
+    top: 514px;
+    left: 413px;
+    transition: transform .5s;
+}
+#etiqueta4:hover{
+    position: absolute;
+    top: 514px;
+    left: 413px;
+    transform: scale(1.3);
+}
+#etiqueta5{
+    width: 100px;
+    height: 100px;
+    background: url("../img/organizacion/c1.png") no-repeat;
+    position: absolute;
+    top: 139px;
+    right: 328px;
+    transition: transform .5s;
+}
+#etiqueta5:hover{
+    position: absolute;
+    top: 139px;
+    right: 328px;
+    transform: scale(1.3);
+}
+#etiqueta6{
+    width: 100px;
+    height: 100px;
+    background: url("../img/organizacion/c1.png") no-repeat;
+    position: absolute;
+    top: 347px;
+    right: 281px;
+    transition: transform .5s;
+}
+#etiqueta6:hover{
+    position: absolute;
+    top: 347px;
+    right: 281px;
+    transform: scale(1.3);
+}
+#etiqueta7{
+    width: 100px;
+    height: 100px;
+    background: url("../img/organizacion/c1.png") no-repeat;
+    position: absolute;
+    top: 514px;
+    right: 413px;
+    transition: transform .5s;
+}
+#etiqueta7:hover{
+    position: absolute;
+    top: 514px;
+    right: 413px;
+    transform: scale(1.3);
+}

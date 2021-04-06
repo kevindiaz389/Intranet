@@ -1,0 +1,26 @@
+.product-top-4{
+    background-image: url('../img/valor2.png');
+    background-size: cover;
+}
+h3{
+	opacity: 0.7;
+	font-size: 26.5px;
+	font-style: normal;
+    word-spacing: 5px;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: #173686;
+}
+p{
+    text-align: justify;
+    color:black;
+    font-style: oblique;
+}
+.contenido{
+    margin: auto;
+}
+hr{
+    color: #173686;
+}

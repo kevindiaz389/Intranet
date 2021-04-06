@@ -1,0 +1,18 @@
+      .content {
+        margin-top: 80px;
+      }
+        header{
+        height: 70px;
+      }
+      #fondopag{
+        background-color: #f8f8f8;
+      }
+  }
+  img {
+    border-radius: 8px;
+  }
+ 
+  hr {
+    height: 1px;
+    background-color: grey;
+  }

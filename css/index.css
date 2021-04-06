@@ -1,0 +1,132 @@
+/*------------------------INDEX--------------------------*/
+
+#col-centro{background-color: #FFFFFF;}
+#videovalor{width: 810px; height:347px; align-content: center;}
+#compromiso{align-content: center;}
+#titulo{font-family: Arial; font-size: 30pt;}
+.video-fluid{width: 100%; height: auto;}
+#modalvalordelmes{width: 100% !important; height: 100% !important;}
+#hr {
+  height: 1px;
+  background-color: grey;
+}
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  display:block;
+margin:auto;
+}
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+#medio{
+  background-color: #FFFFFF;
+}
+#lateralside{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+#anuncioimg{
+
+  border-radius: 10px;
+}
+#contenedorimagen {
+  position: relative;
+  width: 80%;
+}
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+#contenedorimagen:hover .overlay {
+  width: 100%;
+}
+.text {
+  white-space: nowrap; 
+  color: grey;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+#iconodeinicio{
+  width: 5%;
+}
+#fondopag{
+  background-color: #f8f8f8;
+}
+#iniciativa{
+  color: black;
+  opacity: 0.8;
+}
+#anuncio{
+  font-size: 18px;
+}
+ .boton_personalizado{
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #f8f8f8;
+    border: none solid black;
+  }
+  .boton_personalizado:hover{
+    color: #1883ba;
+    background-color: grey;
+  }
+  #boton{
+    width: 15%;
+  }
+  #imgfucho{
+    width: 1150px;
+    height: 700px;
+  }
+  #imgcalendario{
+    width: 1100px;
+    height: 760px;
+  }
+  #imgvertical{
+    width: 760px;
+    height: 1100px;
+  }
+  #asterisco{
+    color: red;
+  }
+  #fondosecciones{
+    background-color: white;
+  }
+  #t1{
+    /*font-style: normal;
+    font-size: 20px;*/
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    text-shadow: none;
+    font-family: inter;
+  }
+  .contenido{
+    margin: auto;
+}
